@@ -69,7 +69,7 @@ class TestEmployee
 }
  ```
  ## Output:
- ![output]()
+ ![output](https://github.com/jhansi21005096/Ex04-Constructor/blob/main/output.png)
 
  ## Result:
 Thus the C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
